@@ -48,4 +48,5 @@ def tas_kagit_makas_NACİYE_BEYZA_HODOĞLUGİL():
         computer_new_game=random.choice(['y','n'])
         if computer_new_game=='n':
             print("Game is completed!") 
-            break          
+            break 
+tas_kagit_makas_NACİYE_BEYZA_HODOĞLUGİL()
